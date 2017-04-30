@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+project.db
+/static
+.DS_Store
+env
